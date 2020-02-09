@@ -23,6 +23,11 @@ public class Ejercicios_1_bloque1 {
 			System.out.print(array[i] );
 			
 		}
+		for (int i =0 ; i<array.length; i++) {
+
+			System.out.print(array[i] );
+			
+		}
 		
 		
 		
