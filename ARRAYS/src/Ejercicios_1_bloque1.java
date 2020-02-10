@@ -38,6 +38,8 @@ public class Ejercicios_1_bloque1 {
 	
 	public void nuevometodo1() {
 		System.out.println("metodo 1");
+		System.out.println("añade al metodu uno un syso");
+		
 	}
 	
 }
