@@ -33,5 +33,8 @@ public class Ejercicios_1_bloque1 {
 		
 		
 	}
+	public void nuevometodo2() {
+		System.out.println("metodo 2");
+	}
 	
 }
